@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\beetech\AndroidConnectingToPhpMySQL\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39e3da5fc4da12015d9d980e2a32bc154f1ef6ee">
+        <dex dex="D:\beetech\AndroidConnectingToPhpMySQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9aba8cd4c0bdc54a357def33685e0509d7116789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\beetech\AndroidConnectingToPhpMySQL\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db5231a23d33770e3297bd6f0fb593ca8560d42d">
+        <dex dex="D:\beetech\AndroidConnectingToPhpMySQL\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3bb5cda2827993ea3e052d12518c413f6fd2ec0f\classes.dex" />
+    </item>
+
+</items>

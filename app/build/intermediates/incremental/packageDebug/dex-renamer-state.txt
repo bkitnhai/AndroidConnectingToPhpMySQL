@@ -1,0 +1,7 @@
+#Wed Dec 21 22:02:18 CET 2016
+base.0=D\:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9aba8cd4c0bdc54a357def33685e0509d7116789
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bb5cda2827993ea3e052d12518c413f6fd2ec0f\\classes.dex
+base.1=D\:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3bb5cda2827993ea3e052d12518c413f6fd2ec0f
+file.0=D\:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9aba8cd4c0bdc54a357def33685e0509d7116789\\classes.dex

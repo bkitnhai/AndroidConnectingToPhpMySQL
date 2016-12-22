@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_products.xml",
+        "source": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\src\\main\\res\\layout\\all_products.xml"
+    },
+    {
+        "merged": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_product.xml",
+        "source": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\src\\main\\res\\layout\\add_product.xml"
+    },
+    {
+        "merged": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_product.xml",
+        "source": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\src\\main\\res\\layout\\edit_product.xml"
+    },
+    {
+        "merged": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen.xml",
+        "source": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\src\\main\\res\\layout\\main_screen.xml"
+    },
+    {
+        "merged": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\beetech\\AndroidConnectingToPhpMySQL\\app\\src\\main\\res\\layout\\list_item.xml"
+    }
+]
